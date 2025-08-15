@@ -6,6 +6,39 @@ Tenax is an innovative educational MVP platform that transforms how students lea
 
 **🎯 Vision**: Democratize personalized education by making advanced learning optimization accessible to students worldwide, regardless of their background or resources.
 
+## 💡 The Need Statement - A Personal Journey
+
+### **🎓 The Problem I Experienced**
+
+As a computer science student at Universidad de los Andes, I faced a common but critical challenge: **managing multiple learning systems, tracking progress across different subjects, and maintaining consistent study habits**. Like many students, I found myself juggling:
+
+- Multiple productivity tools (Notion, Google Calendar, Trello)
+- Different learning platforms and LMS systems
+- Various assignment tracking methods
+- Inconsistent study schedules and habits
+- Lack of personalized insights into my learning patterns
+
+### **🔍 The Insight**
+
+The breakthrough came when I was working on a **personal knowledge management system** - essentially a custom "constancias" (evidence/record) manager for tracking my academic achievements, certifications, and learning milestones. While building this system, I realized:
+
+> **"Students don't need another tool - they need an intelligent system that connects and optimizes all their existing tools."**
+
+### **🚀 The Solution Vision**
+
+This personal frustration led to a bigger realization: **What if we could create a platform that not only manages learning records but actively learns from student behavior to optimize their entire educational experience?**
+
+Tenax evolved from this simple need:
+- **From**: Manual tracking of academic constancias and achievements
+- **To**: AI-powered system that understands individual learning patterns
+- **Result**: Personalized recommendations that adapt to each student's unique style and goals
+
+### **🎯 Why This Matters**
+
+Every student deserves a learning experience that adapts to them, not the other way around. My journey from building a simple constancias manager to envisioning Tenax represents a fundamental shift in educational technology - from static tools to intelligent, adaptive learning companions.
+
+**The question that drives Tenax**: *"What if technology could understand how you learn best and automatically optimize your entire educational journey?"*
+
 ## 🌍 Market Impact & Opportunity
 
 ### **📊 Addressing a $366B Global Market**
